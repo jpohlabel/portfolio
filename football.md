@@ -12,7 +12,7 @@ The gameplay has realistic physics, tackling, throwing, kicking, and more. There
 Teams can choose from several different helmet/jersey combinations, and the jerseys are fairly accurate to how they look in real life.
 
 ## Technical Info
-The game was written in the Lua scripting language (similar to Python) on the ROBLOX platform. I know ROBLOX is stereotypically thought of as a game, but it has actually become quite advanced in recent years and you can do a lot on it. 
+The game was written in the Lua scripting language (similar to Python) on the ROBLOX platform. I know ROBLOX is stereotypically thought of as a kids game, but it has actually become quite advanced in recent years and you can do a lot on it. 
 It is more of a game development platform than an actual game. It is also what I first learned to code on back in middle school, so I had enough experience on it to make something fairly quickly. 
 
 This game was made from scratch. I had to set up a module loader system to allow modules to communicate with each other and avoid circular dependencies, since ROBLOX is not set up for this. I had full-stack development experience here, from loading player data on the backend,
