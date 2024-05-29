@@ -11,7 +11,7 @@ weight you actually did and for how many sets/reps. It would also time your work
 over time.
 
 ## Technical Info
-We created this app using Flutter, which allows you to compile dart code to work on both Android and iOS devices. We used FlutterFire which is Flutter's integration with Firebase
+We created this app using Flutter, which allows you to compile Dart code to work on both Android and iOS devices. We used FlutterFire, which is Flutter's integration with Firebase
 to allow for user authentication and saving of data. This app used a Model-View-View Model (MVVM) architecture, similar to a Model-View-Controller (MVC) architecture. We also 
 utilized unit tests in the creation of this app.
 
