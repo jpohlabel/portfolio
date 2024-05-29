@@ -18,6 +18,8 @@ It is more of a game development platform than an actual game. It is also what I
 This game was made from scratch. I had to set up a module loader system to allow modules to communicate with each other and avoid circular dependencies, since ROBLOX is not set up for this. I had full-stack development experience here, from loading player data on the backend,
 networking to the client, and displaying UIs. I also got experience with 3D modeling and graphics software (Blender, Inkscape, paint.net - free softwares but you can do a lot with them). 
 
+I am available to go through the code upon request. This was my most extensive project and I am proud to show it off and explain how it works.
+
 ## Images
 ![image](https://github.com/jpohlabel/portfolio/assets/113477103/d5142746-894c-4675-b2e0-d493b1b825ba)
 ![image](https://github.com/jpohlabel/portfolio/assets/113477103/8fd2703f-0880-402a-8199-e5be20e94589)
