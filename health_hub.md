@@ -10,7 +10,7 @@ which then transmitted data to a Raspberry Pi that was running the web app to di
 This app was to be used by anesthesiologists during small, routine surgeries so that large rooms with expensive, bulky equipment did not have to be rented out for use. 
 
 ## Technical Info
-We used a React app on the frontend, Flask to run the web server (in Python), and Arduino code (similar to C) to read in data and trasmit to the Raspberry Pi via HTTP.
+We used a React app on the frontend, Flask to run the web server (in Python), and Arduino code (similar to C) to read in data and transmit to the Raspberry Pi via HTTP.
 
 ## Images
 ![image](https://github.com/jpohlabel/portfolio/assets/113477103/0639c823-205d-4559-bbf1-edcbe72471fd)
