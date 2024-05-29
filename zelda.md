@@ -2,7 +2,7 @@
 2022
 
 ## Background
-This was for a junior year project course. I worked with 3 other students to recreate the first dungeon in 1986's The Legend of Zelda.
+This was for a junior year project course. I worked with 4 other students to recreate the first dungeon in 1986's The Legend of Zelda.
 We also had the chance to add additional features of our own choosing as part of the final sprint.
 
 ## Description
