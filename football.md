@@ -2,7 +2,7 @@
 2021-2024
 
 ## Background
-This was a college football video game I spent a couple years developing as a personal project. I was the head developer on this project and did roughly 90%-95% of the work, and I worked with two other developer friends (one a 3D modeler, another a graphic designer). 
+This was a college football video game I spent a couple years developing as a personal project. I was the head developer on this project and did roughly 90% of the work, and I worked with two other developer friends (one a 3D modeler who made the stadium models, another a graphic designer who made logos and model textures). 
 I did all of the programming on the project and also contributed in other areas. I started this project as a fun hobby to do with friends, but it grew to have a community of about a thousand players, and I sold off some assets from the game for roughly $5000 total over the years.
 The community is still running to this day, although I am not involved anymore.
 
