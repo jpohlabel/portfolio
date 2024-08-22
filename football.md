@@ -4,7 +4,7 @@
 ## Background
 This was a college football video game I spent a couple years developing as a personal project. I was the head developer on this project and did roughly 90% of the work, and I worked with two other developer friends (one a 3D modeler who made the stadium models, another a graphic designer who made logos and model textures). 
 I did all of the programming on the project and also contributed in other areas. I started this project as a fun hobby to do with friends, but it grew to have a community of about a thousand players, and I sold off some assets from the game for roughly $4000 total over the years.
-The community is still running to this day, although I am not involved anymore.
+The community is still running to this day (as far as I know), although I am not involved anymore.
 
 ## Description
 In this game, players can create a character and choose from several different real-life colleges. They can choose their name, number, and customize their helmets/jerseys/accessories. They can then travel around the country to different stadiums and play games.
